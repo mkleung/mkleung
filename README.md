@@ -6,6 +6,12 @@
 * 👀 I write web development tutorials on my [blog](https://www.mikeleung.ca)
 
 
+## My Skills Summary
+* Laravel
+* WordPress
+* Django
+* React
+* Vue
 
 
 
